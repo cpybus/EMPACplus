@@ -13,6 +13,7 @@
     "hbs": "~4.0.1",
     "mongoose": "^4.6.6",
     "morgan": "~1.7.0",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.3.0",
+    "express-restify-mongoose": "^4.0.0"
   }
 }
