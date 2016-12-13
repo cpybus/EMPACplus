@@ -25,5 +25,5 @@ restify.serve(router, mongoose.model('Events', new mongoose.Schema({
 app.use(router)
 
 app.listen(3000, function () {
-  console.log('Express server listening on port 3000')
+  console.log('Server listening on port 3000')
 })
